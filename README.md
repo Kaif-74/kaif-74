@@ -17,7 +17,7 @@ Hey there! , I'm Sk Mohammed Kaif a final-year Computer Science & Engineering st
 
 ### Projects:
 
-- **Tic-Tac-Toe**:Developed a dynamic and comprehensive student portfolio application using Python and Django, signifi
+- **PORTFOLIO**:Developed a dynamic and comprehensive student portfolio application using Python and Django, signifi
  cantly enhancing user engagement and portfolio management capabilities.
 
 - **Tic-Tac-Toe**: Developed an interactive Tic Tac Toe game using HTML and CSS, enhancing user engagement and
